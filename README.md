@@ -1,4 +1,6 @@
-# CS150 Databasee HW2
+# CS150 Databasee HW2 part A: Coding
+
+In homework 2, you need to finish PS3.ipynb.
 
 *Caution: Activity-15.ipynb is recommended to complete but not necessary. What
 you need is to fill out the required content of submit.py.*
