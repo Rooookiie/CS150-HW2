@@ -205,7 +205,11 @@ def hashJoin(table1, table2, hashfunction,buckets):
 
 #Q4aii
 '''
-Explanation here:
+EXPLANATION GOES HERE
+Return 12740 tuples in total
+The join took 6047.72 ms, it is not reasonable.
+It takes too long to run, it should be faster for hash join.
+The problem can be hash function hashes data with skew, which can take much time.
 '''
 
 #Q4bi 
