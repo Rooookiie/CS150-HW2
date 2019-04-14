@@ -149,7 +149,7 @@ p3_lru_points = [(1, 0), (2, 5), (3, 10), (4, 15), (5, 20), (6, 24), (7, 28), (8
 #Q3bi 
 def clock_cost(N, M, B):
     #BEGIN YOUR CODE
-     if N <= B+1:
+    if N <= B+1:
         return N
     else:
         B += 1
